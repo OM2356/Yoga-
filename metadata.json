@@ -1,0 +1,6 @@
+{
+  "name": "FlowState",
+  "description": "Outcome-based yoga and somatic recovery bridging mental peace and physical recovery.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
